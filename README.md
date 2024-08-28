@@ -2,7 +2,7 @@
 
 ```ts
 const me = (value = "devops culture") => {
-  console.log(`Having fun at ${value}!`);
+  console.log(`Having fun with ${value}!`);
 };
 ```
 
@@ -12,8 +12,8 @@ print('👨🏻‍💻 by day && night 😎')
 
 ```prolog
 job_title(X) :-
-    member(X, ['senior lead', 'agile methodologies', 'domain driven designer', 'software developer']).']),
-    \+ member(X, ['full stack @ sometimes']).
+    member(X, ['senior lead', '.net', 'domain driven design', 'microservices', 'microfrontends']).']),
+    \+ member(X, ['full stack @ always']).
 ```
 
 <!--
